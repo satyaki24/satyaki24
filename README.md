@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Hotel Booking and Management System using Springboot](https://github.com/satyaki24/HotelBookingAndManagementSystem)
 
-- 🌱 I’m currently learning **Springboot development**
+- 🌱 I’m currently learning **Springboot development (for personal projects) and .NET (for work)**
 
 - 📫 How to reach me **sagaryadav242002@gmail.com**
 
