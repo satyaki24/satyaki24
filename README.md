@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sagar</h1>
+<h1 align="center">Hi 👋, I'm Sagar.</h1>
 <h3 align="center">A passionate java backend developer from India</h3>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=satyaki24&label=Profile%20views&color=0e75b6&style=flat)
